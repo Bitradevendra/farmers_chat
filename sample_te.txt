@@ -1,0 +1,10 @@
+Welcome to the farmer's application. Please login using your mobile number and password.
+
+Features:
+- Upload photos of your crops
+- Get expert advice
+- Track crop growth
+- Access weather updates
+- Connect with other farmers
+
+For any issues, please contact our support team.

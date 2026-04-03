@@ -1,0 +1,5 @@
+moviepy==1.0.3
+openai-whisper==20231117
+deep-translator==1.9.2
+TTS==0.22.0
+pydub==0.25.1
